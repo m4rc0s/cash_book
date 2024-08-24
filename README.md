@@ -2,7 +2,7 @@
 
 Have you seen a **CashBook** before? If not take a look [here](https://www.amazon.com/cash-log-book/s?k=cash+log+bookhttps:/) and you will undestand what's this.
 
-There's no purposes as product. Its just for Rust practicing and fun! Fell free to clone and modify. Feel free to ask for features and do your contributions;
+There's no purposes as product. Its just for Rust practicing and fun! Feel free (sincerilly, feel free) to clone and modify, to ask for features and add your contributions;
 
 # Running Project Locally
 
